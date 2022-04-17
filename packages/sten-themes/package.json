@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
-  "private": "false"
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  }
 }
